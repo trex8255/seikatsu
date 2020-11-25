@@ -1,0 +1,7 @@
+{
+  "name": "seikatsu",
+  "private": true,
+  "dependencies": {
+    "startbootstrap-freelancer": "^6.0.5"
+  }
+}
