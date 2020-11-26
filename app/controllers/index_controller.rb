@@ -1,7 +1,7 @@
 class IndexController < ApplicationController
   def home
   end
-  def about
+  def step
     
   end
 end
